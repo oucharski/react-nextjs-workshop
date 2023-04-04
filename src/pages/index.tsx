@@ -29,6 +29,12 @@ export const Examples = () => {
           <li>State and Effect</li>
         </Link>
       </div>
+      <p style={styles.listTitle}>Session 2</p>
+      <div style={styles.listContainer}>
+        <Link href="/material-ui">
+          <li>Material UI</li>
+        </Link>
+      </div>
     </ol>
   );
 };
