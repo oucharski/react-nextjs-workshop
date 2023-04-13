@@ -5,4 +5,5 @@ export const styles = {
   backgroundColor: "#3b3b3b",
   height: "100px",
   padding: "30px",
+  zIndex: 999,
 };
