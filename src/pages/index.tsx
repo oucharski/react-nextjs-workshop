@@ -34,6 +34,12 @@ export const Examples = () => {
         <Link href="/material-ui">
           <li>Material UI</li>
         </Link>
+        <Link href="/call-api-base">
+          <li>Call an api (Base)</li>
+        </Link>
+        <Link href="/call-api-swr">
+          <li>Call an api (SWR)</li>
+        </Link>
       </div>
     </ol>
   );
